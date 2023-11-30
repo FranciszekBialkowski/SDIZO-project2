@@ -1,0 +1,3 @@
+C:/Users/Ja/OneDrive/studia/IV semestr/SDIZO/P/drugi/projekt/cmake-build-debug/CMakeFiles/projekt.dir
+C:/Users/Ja/OneDrive/studia/IV semestr/SDIZO/P/drugi/projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ja/OneDrive/studia/IV semestr/SDIZO/P/drugi/projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
